@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hey ;)
 
-I am a computer science student interested in cybersecurity, cryptography, AI, HCI and anything that is cool. I like to write software that is fun to use, if it's not fun then it's not worth making.
+I am a computer science student that loves to play around with technology. My interests include software development, cybersecurity, networking, cryptography, AI, HCI and anything that is cool.
+
+<h1 align="center"><img src="https://media.giphy.com/media/RkJKg8HvhCx0lDj6K7/giphy.gif" alt="Sangría" loading="lazy"></h1>
